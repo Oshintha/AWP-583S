@@ -5,12 +5,12 @@
 <h3>Goals & Objectives of the Project</h3>
 Fill the gap in portfolio by developping 7 new sizes.
 
-<h3>Activities Done by myself</h3>
+<h3>Activities Done by Myself</h3>
 <h5>Manufacturing Feasibility Study</h5>
 <h5>Product Cost Calculation</h5>
 <h5>Risk Analysis (DFMEA)</h5>
-<h5>Theoritical calculation and layout design</h5>
-<h5>Prototype making and testing</h5>
+<h5>Theoretical Calculation and Layout Design</h5>
+<h5>Prototype Making and Testing</h5>
 <h5>ISO Documentation</h5>
 <h5>Industrialization</h5>
-<h5>Update master data in SAP</h5>
+<h5>Updating Master Data in SAP</h5>
