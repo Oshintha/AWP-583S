@@ -6,7 +6,7 @@
 <img src="https://github.com/Oshintha/Solid-Air-AWP/assets/155742370/f89ad3d1-78d5-4775-85e2-eb21f2e52548"  width="45%" height="45%">
 
 <h3>Goals & Objectives of the Project</h3>
-The primary goal of the Solid Air AWP project was to fill the gap in the portfolio by developing seven new sizes of solid air tires. These tires were specifically tailored to meet the requirements of OEM customers, predominantly for Haullote and Manitou machines.
+The primary goal of the Solid Air AWP project was to fill the gap in the portfolio by developing seven new sizes of solid air tires. These tires were specifically tailored to meet the requirements of Original Equipment Manufacturer (OEM) customers, predominantly for Haullote and Manitou machines.
 
 <h3>Activities Undertaken:</h3>
 <p>Throughout the project, I spearheaded various critical tasks, including:</p>
