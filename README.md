@@ -1,16 +1,37 @@
-# AWP-583S
-![image](https://github.com/Oshintha/AWP-583S/assets/155742370/d86c169b-d9e0-4dbe-a7be-6a05ca9f7725)
+# Solid Air AWP
 
-![image](https://github.com/Oshintha/AWP-583S/assets/155742370/6794a35e-f167-4587-8461-592704706253)
+
+<img src="https://github.com/Oshintha/AWP-583S/assets/155742370/4529fbf4-c352-490a-a281-42ef6f3d1b51"  width="800" height="">
 <h3>Goals & Objectives of the Project</h3>
-Fill the gap in portfolio by developping 7 new sizes.
+The primary goal of the Solid Air AWP project was to fill the gap in the portfolio by developing seven new sizes of solid air tires. These tires were specifically tailored to meet the requirements of OEM customers, predominantly for Haullote and Manitou machines.
 
-<h3>Activities Done by Myself</h3>
-<h5>Manufacturing Feasibility Study</h5>
-<h5>Product Cost Calculation</h5>
-<h5>Risk Analysis (DFMEA)</h5>
-<h5>Theoretical Calculation and Layout Design</h5>
-<h5>Prototype Making and Testing</h5>
-<h5>ISO Documentation</h5>
-<h5>Industrialization</h5>
-<h5>Updating Master Data in SAP</h5>
+<h3>Activities Undertaken:</h3>
+<p>Throughout the project, I spearheaded various critical tasks, including:</p>
+
+- Production trals to find solutions
+- Tread Design
+- Tool design for manufacturing
+- Conducting Manufacturing Feasibility Studies
+- Calculating Product Costs
+- Evaluating Finite Element Analysis (FEA) Results
+- Performing Risk Analysis (DFMEA)
+- Engaging in Theoretical Calculations and Layout Designs
+- Overseeing Prototype Manufacturing and Testing
+- Managing ISO Documentation
+- Facilitating Industrialization Processes
+- Updating Master Data in SAP
+
+<h3>Tools Utilized:</h3>
+
+- PLM (Product Lifecycle Management): Windchill
+- ERP (Enterprise Resource Planning): SAP
+- Design Software: SolidWorks
+- Finite Element Analysis (FEA): Abaqus
+  
+<h3>Achievement:</h3>
+
+<p>Successfully met OEM customers' requirements and provided tailored solutions in manufacturing processes. Provided customer samples for testing tire machines prior to market release and fulfilled mass production orders according to agreed timelines. Additionally, offered technical support to resolve production and application issues, ensuring seamless integration and customer satisfaction.</p>
+
+<h3>Additional Details:</h3>
+
+In this scope, we produced tires according to the specific requirements of OEM customers, with a primary focus on Haullote and Manitou machines. These tires were curedon tires, designed to fit seamlessly with the OEM machines' hubs. The project involved producing tires in various sizes, with different wheel configurations and tire compounds tailored to specific applications.
