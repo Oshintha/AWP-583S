@@ -25,7 +25,7 @@ The primary goal of the Solid Air AWP project was to fill the gap in the portfol
 
 - PLM (Product Lifecycle Management): Windchill
 - ERP (Enterprise Resource Planning): SAP
-- Design Software: SolidWorks
+- Design Software: SolidWorks , Auto CAD
 - Finite Element Analysis (FEA): Abaqus
   
 <h3>Achievement:</h3>
