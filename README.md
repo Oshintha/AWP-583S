@@ -1,7 +1,10 @@
 # Solid Air AWP
 
 
-<img src="https://github.com/Oshintha/AWP-583S/assets/155742370/4529fbf4-c352-490a-a281-42ef6f3d1b51"  width="800" height="">
+<img src="https://github.com/Oshintha/AWP-583S/assets/155742370/4529fbf4-c352-490a-a281-42ef6f3d1b51"  width="49%" height="49%">
+
+<img src="https://github.com/Oshintha/Solid-Air-AWP/assets/155742370/f89ad3d1-78d5-4775-85e2-eb21f2e52548"  width="45%" height="45%">
+
 <h3>Goals & Objectives of the Project</h3>
 The primary goal of the Solid Air AWP project was to fill the gap in the portfolio by developing seven new sizes of solid air tires. These tires were specifically tailored to meet the requirements of OEM customers, predominantly for Haullote and Manitou machines.
 
